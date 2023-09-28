@@ -8,6 +8,7 @@
 *.userosscache
 *.sln.docstates
 
+# Output directories
 bin/
 obj/
 
@@ -17,95 +18,15 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
-Recycle Bin used to store deleted files
-$RECYCLE.BIN/
-
-# VS Code directories
-.vscode/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# JetBrains Rider
-.idea/
-
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
-
-# Untracked files
-*.log
-*.sqlite
-
-# .NET Core
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# Tye
-.tye/
-
-# Visual Studio for Mac
-.vscode/
-.vscode/
-.vscode/
-
-# Rider
-.idea/
-
-# User-specific
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# .NET Core
-*.ride-sln
-*.sln.iml
-
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
-
-# .NET Core
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# Tye
-.tye/
-
-# Rider
-.idea/
-
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
-
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
 
 # Recycle Bin used to store deleted files
 $RECYCLE.BIN/
 
-# Rider
-.idea/
-
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
 # VS Code directories
 .vscode/
+
+# Visual Studio directories
 .vs/
-*.log
-*.sqlite
-*.db
 
 # Windows Installer files
 *.cab
@@ -116,7 +37,7 @@ ehthumbs.db
 # Windows shortcuts
 *.lnk
 
-# JetBrains Rider
+# JetBrains Rider & other JetBrains IDEs
 .idea/
 
 # ASP.NET Scaffolding
@@ -130,52 +51,7 @@ artifacts/
 # Tye
 .tye/
 
-# Visual Studio for Mac
-.vscode/
+# Logs and databases
 *.log
 *.sqlite
 *.db
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# JetBrains Rider
-.idea/
-
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
-
-# .NET Core
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# Tye
-.tye/
-
-# Visual Studio for Mac
-.vscode/
-*.log
-*.sqlite
-*.db
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# JetBrains Rider
-.idea/
-
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
