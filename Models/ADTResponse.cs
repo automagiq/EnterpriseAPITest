@@ -3,10 +3,10 @@
     public class ADTResponse
     {
         public string Message { get; set; }
-        public ADP Data { get; set; }
+        public ADT Data { get; set; }
     }
 
-    public class ADP
+    public class ADT
     {
         public string Name { get; set; }
     }

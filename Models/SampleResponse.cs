@@ -1,12 +1,12 @@
 ﻿namespace EnterpriseAPITest.Models
 {
-    public class ADPResponse
+    public class SampleResponse
     {
         public string Message { get; set; }
-        public ADP Data { get; set; }
+        public Sample Data { get; set; }
     }
 
-    public class ADP
+    public class Sample
     {
         public string Name { get; set; }
     }

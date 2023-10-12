@@ -6,9 +6,9 @@ using NUnit.Framework;
 
 namespace EnterpriseAPITest.Tests
 {
-    public partial class ADPTests : BaseTest
+    public partial class SampleTests : BaseTest
     {
-        public ADPTests()
+        public SampleTests()
         {
             Setup("http://postman-api-learner.glitch.me");
         }
